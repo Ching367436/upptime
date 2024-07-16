@@ -203,18 +203,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/simple-site.ching367436.me.ico",
     "slug": "ctf-simple-site",
     "status": "up",
-    "uptime": "71.32%",
-    "uptimeDay": "71.32%",
-    "uptimeWeek": "71.32%",
-    "uptimeMonth": "71.32%",
-    "uptimeYear": "71.32%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 568,
     "timeDay": 568,
     "timeWeek": 568,
     "timeMonth": 568,
     "timeYear": 568,
-    "dailyMinutesDown": {
-      "2024-07-16": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
