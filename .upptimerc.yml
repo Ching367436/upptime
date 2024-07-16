@@ -24,7 +24,7 @@ sites:
     url: https://e-portfolio-baby.ching367436.me
   - name: 'CTF: E-Portfolio'
     url: https://e-portfolio.ching367436.me
-  - name: 'CTF: Flag Checker ｜ Anti-debugging'
+  - name: 'CTF: Flag Checker｜Anti-debugging'
     url: https://flag-checker-anti-debugging.ching367436.me/
   - name: 'CTF: Simple Site'
     url: https://simple-site.ching367436.me
