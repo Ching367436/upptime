@@ -5,11 +5,30 @@ repo: upptime # The name of this repository
 sites:
   - name: Ching367436's blog
     url: https://blog.ching367436.me
-  - name: BambooFox
+  - name: BambooFox Main Site
     url: https://bamboofox.cs.nycu.edu.tw
-  - name: Test Broken Site
-    url: https://blog.ching367436.me/404.html
-
+  # My CTF Challenges
+  - name: CTF: Frontend Unraveling Web Application: Master Obfuscated Code Odyssey
+    url: https://fuwamoco-flag-checker.ching367436.me
+  - name: CTF: Starburst Cat Shop
+    url: https://starburst-cat-shop.ching367436.me
+  - name: CTF: Login Panel
+    url: https://login-panel.ching367436.me
+  - name: CTF: Login Panel 2
+    url: https://login-panel-2.ching367436.me
+  - name: CTF: Curl Online
+    url: https://curl-online.ching367436.me/?url=example.com%2F
+  - name: CTF: Curl Online Pro
+    url: https://curl-online-pro.ching367436.me/?url=example.com%2F
+  - name: CTF: E-Portfolio Baby
+    url: https://e-portfolio-baby.ching367436.me
+  - name: CTF: E-Portfolio
+    url: https://e-portfolio.ching367436.me
+  - name: CTF: Flag Checker | Anti-debugging
+    url: https://flag-checker-anti-debugging.ching367436.me/
+  - name: CTF: Simple Site
+    url: https://simple-site.ching367436.me
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
