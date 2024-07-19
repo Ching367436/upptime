@@ -1,6 +1,7 @@
 # Change these first
 owner: Ching367436 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+user-agent: ChingBot/1.0 (https://github.com/Ching367436/upptime)
 
 sites:
   - name: Ching367436's blog
