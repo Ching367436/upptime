@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/172.104.78.53.ico",
     "slug": "bamboo-fox-main-site-direct-ip",
     "status": "up",
-    "uptime": "47.96%",
-    "uptimeDay": "47.96%",
-    "uptimeWeek": "47.96%",
-    "uptimeMonth": "47.96%",
-    "uptimeYear": "47.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 623,
     "timeDay": 623,
     "timeWeek": 623,
     "timeMonth": 623,
     "timeYear": 623,
-    "dailyMinutesDown": {
-      "2024-07-20": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CTF: Frontend Unraveling Web Application: Master Obfuscated Code Odyssey",
@@ -80,7 +78,7 @@
     "slug": "ctf-starburst-cat-shop",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.46%",
+    "uptimeDay": "99.45%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
