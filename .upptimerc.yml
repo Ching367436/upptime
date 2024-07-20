@@ -15,6 +15,7 @@ sites:
     url: https://fuwamoco-flag-checker.ching367436.me
   - name: 'CTF: Starburst Cat Shop'
     url: https://starburst-cat-shop.ching367436.me/login
+    method: POST
     body: "username=ChingBot"
   - name: 'CTF: Login Panel'
     url: https://login-panel.ching367436.me
