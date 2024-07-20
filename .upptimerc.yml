@@ -17,6 +17,8 @@ sites:
     url: https://starburst-cat-shop.ching367436.me/login
     method: POST
     body: "username=ChingBot"
+    expectedStatusCodes:
+      - 302
   - name: 'CTF: Login Panel'
     url: https://login-panel.ching367436.me
   - name: 'CTF: Login Panel 2'
