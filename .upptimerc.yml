@@ -9,7 +9,7 @@ sites:
     url: https://bamboofox.cs.nycu.edu.tw
   - name: BambooFox Main Site (Direct IP)
     url: https://172.104.78.53
-    __dangerous__disable_verify_host: true
+    __dangerous__insecure: true
   # My CTF Challenges
   - name: 'CTF: Frontend Unraveling Web Application: Master Obfuscated Code Odyssey'
     url: https://fuwamoco-flag-checker.ching367436.me
