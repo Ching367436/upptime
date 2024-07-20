@@ -16,6 +16,8 @@ sites:
   - name: 'CTF: Starburst Cat Shop'
     method: POST
     url: https://starburst-cat-shop.ching367436.me/login
+    headers:
+      Content-Type: application/x-www-form-urlencoded
     body: "username=ChingBot"
   - name: 'CTF: Login Panel'
     url: https://login-panel.ching367436.me
