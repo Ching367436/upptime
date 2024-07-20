@@ -76,19 +76,19 @@
     "url": "https://starburst-cat-shop.ching367436.me/login",
     "icon": "https://icons.duckduckgo.com/ip3/starburst-cat-shop.ching367436.me.ico",
     "slug": "ctf-starburst-cat-shop",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 2468,
-    "timeDay": 4287,
-    "timeWeek": 2468,
-    "timeMonth": 2468,
-    "timeYear": 2468,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2379,
+    "timeDay": 3906,
+    "timeWeek": 2379,
+    "timeMonth": 2379,
+    "timeYear": 2379,
     "dailyMinutesDown": {
-      "2024-07-20": 6
+      "2024-07-20": 0
     }
   },
   {
