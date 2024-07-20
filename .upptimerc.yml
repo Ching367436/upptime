@@ -14,7 +14,9 @@ sites:
   - name: 'CTF: Frontend Unraveling Web Application: Master Obfuscated Code Odyssey'
     url: https://fuwamoco-flag-checker.ching367436.me
   - name: 'CTF: Starburst Cat Shop'
-    url: https://starburst-cat-shop.ching367436.me
+    method: POST
+    url: https://starburst-cat-shop.ching367436.me/login
+    body: "username=ChingBot"
   - name: 'CTF: Login Panel'
     url: https://login-panel.ching367436.me
   - name: 'CTF: Login Panel 2'
