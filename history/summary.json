@@ -22,9 +22,9 @@
     "url": "https://bamboofox.cs.nycu.edu.tw",
     "icon": "https://icons.duckduckgo.com/ip3/bamboofox.cs.nycu.edu.tw.ico",
     "slug": "bamboo-fox-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1470,
     "timeMonth": 1470,
     "timeYear": 1470,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-21": 0
+    }
   },
   {
     "name": "BambooFox Main Site (Direct IP)",
