@@ -258,19 +258,19 @@
     "url": "https://hello-world-ais3.ching367436.me/?name=Ching367436&country=Taiwan",
     "icon": "https://icons.duckduckgo.com/ip3/hello-world-ais3.ching367436.me.ico",
     "slug": "ctf-hello-world-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 412,
-    "timeWeek": 478,
-    "timeMonth": 515,
-    "timeYear": 515,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 522,
+    "timeDay": 501,
+    "timeWeek": 501,
+    "timeMonth": 522,
+    "timeYear": 522,
     "dailyMinutesDown": {
-      "2024-07-30": 0
+      "2024-07-30": 7
     }
   },
   {
