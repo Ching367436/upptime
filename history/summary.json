@@ -186,19 +186,19 @@
     "url": "https://e-portfolio.ching367436.me",
     "icon": "https://icons.duckduckgo.com/ip3/e-portfolio.ching367436.me.ico",
     "slug": "ctf-e-portfolio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 692,
-    "timeDay": 504,
-    "timeWeek": 585,
-    "timeMonth": 692,
-    "timeYear": 692,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 698,
+    "timeDay": 624,
+    "timeWeek": 616,
+    "timeMonth": 698,
+    "timeYear": 698,
     "dailyMinutesDown": {
-      "2024-07-31": 0
+      "2024-07-31": 7
     }
   },
   {
