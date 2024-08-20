@@ -22,19 +22,19 @@
     "url": "https://bamboofox.cs.nycu.edu.tw",
     "icon": "https://icons.duckduckgo.com/ip3/bamboofox.cs.nycu.edu.tw.ico",
     "slug": "bamboo-fox-main-site",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1465,
     "timeDay": 1602,
     "timeWeek": 1406,
     "timeMonth": 1453,
     "timeYear": 1465,
     "dailyMinutesDown": {
-      "2024-08-20": 12
+      "2024-08-20": 1
     }
   },
   {
@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/172.104.78.53.ico",
     "slug": "bamboo-fox-main-site-direct-ip",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 580,
     "timeDay": 628,
     "timeWeek": 558,
     "timeMonth": 586,
     "timeYear": 580,
-    "dailyMinutesDown": {
-      "2024-08-20": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CTF: Frontend Unraveling Web Application: Master Obfuscated Code Odyssey",
