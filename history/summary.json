@@ -22,19 +22,19 @@
     "url": "https://bamboofox.cs.nycu.edu.tw",
     "icon": "https://icons.duckduckgo.com/ip3/bamboofox.cs.nycu.edu.tw.ico",
     "slug": "bamboo-fox-main-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1438,
-    "timeDay": 1595,
-    "timeWeek": 1311,
-    "timeMonth": 1417,
-    "timeYear": 1438,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 1435,
+    "timeDay": 1421,
+    "timeWeek": 1306,
+    "timeMonth": 1413,
+    "timeYear": 1435,
     "dailyMinutesDown": {
-      "2024-08-25": 2
+      "2024-08-25": 16
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://172.104.78.53",
     "icon": "https://icons.duckduckgo.com/ip3/172.104.78.53.ico",
     "slug": "bamboo-fox-main-site-direct-ip",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 662,
-    "timeWeek": 574,
-    "timeMonth": 595,
-    "timeYear": 580,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 581,
+    "timeDay": 652,
+    "timeWeek": 581,
+    "timeMonth": 596,
+    "timeYear": 581,
     "dailyMinutesDown": {
-      "2024-08-25": 0
+      "2024-08-25": 15
     }
   },
   {
