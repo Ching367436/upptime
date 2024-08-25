@@ -22,27 +22,29 @@
     "url": "https://bamboofox.cs.nycu.edu.tw",
     "icon": "https://icons.duckduckgo.com/ip3/bamboofox.cs.nycu.edu.tw.ico",
     "slug": "bamboo-fox-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1438,
-    "timeDay": 1241,
+    "timeDay": 1595,
     "timeWeek": 1311,
     "timeMonth": 1417,
     "timeYear": 1438,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-25": 2
+    }
   },
   {
     "name": "BambooFox Main Site (Direct IP)",
     "url": "https://172.104.78.53",
     "icon": "https://icons.duckduckgo.com/ip3/172.104.78.53.ico",
     "slug": "bamboo-fox-main-site-direct-ip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 574,
     "timeMonth": 595,
     "timeYear": 580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-25": 0
+    }
   },
   {
     "name": "CTF: Frontend Unraveling Web Application: Master Obfuscated Code Odyssey",
