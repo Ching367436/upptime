@@ -78,18 +78,20 @@
     "url": "https://starburst-cat-shop.ching367436.me/login",
     "icon": "https://icons.duckduckgo.com/ip3/starburst-cat-shop.ching367436.me.ico",
     "slug": "ctf-starburst-cat-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1114,
-    "timeDay": 410,
-    "timeWeek": 521,
-    "timeMonth": 542,
-    "timeYear": 1114,
-    "dailyMinutesDown": {}
+    "time": 1105,
+    "timeDay": 497,
+    "timeWeek": 529,
+    "timeMonth": 543,
+    "timeYear": 1105,
+    "dailyMinutesDown": {
+      "2024-08-28": 0
+    }
   },
   {
     "name": "CTF: Login Panel",
