@@ -119,18 +119,20 @@
     "url": "https://login-panel-2.ching367436.me",
     "icon": "https://icons.duckduckgo.com/ip3/login-panel-2.ching367436.me.ico",
     "slug": "ctf-login-panel-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 774,
-    "timeDay": 805,
-    "timeWeek": 836,
+    "timeDay": 779,
+    "timeWeek": 826,
     "timeMonth": 759,
     "timeYear": 774,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-10": 0
+    }
   },
   {
     "name": "CTF: Curl Online",
