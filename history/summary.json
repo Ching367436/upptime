@@ -24,7 +24,7 @@
     "slug": "bamboo-fox-main-site",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "98.38%",
+    "uptimeDay": "98.40%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.76%",
@@ -59,7 +59,7 @@
     "slug": "bamboo-fox-main-site-direct-ip",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.38%",
+    "uptimeDay": "98.39%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.90%",
@@ -158,19 +158,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/curl-online.ctftime.uk.ico",
     "slug": "ctf-curl-online",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 837,
     "timeDay": 886,
     "timeWeek": 943,
     "timeMonth": 846,
     "timeYear": 837,
-    "dailyMinutesDown": {
-      "2024-10-26": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CTF: Curl Online Pro",
@@ -179,18 +177,16 @@
     "slug": "ctf-curl-online-pro",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
     "timeDay": 608,
     "timeWeek": 656,
     "timeMonth": 564,
     "timeYear": 544,
-    "dailyMinutesDown": {
-      "2024-10-26": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CTF: E-Portfolio Baby",
@@ -255,18 +251,16 @@
     "slug": "ctf-simple-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 547,
     "timeDay": 587,
     "timeWeek": 560,
     "timeMonth": 563,
     "timeYear": 547,
-    "dailyMinutesDown": {
-      "2024-10-26": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CTF: Hello World",
