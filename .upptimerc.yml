@@ -37,11 +37,11 @@ sites:
   - name: 'CTF: Simple Site'
     url: https://simple-site.ctftime.uk
   - name: 'CTF: Hello World'
-    url: https://hello-world-gcc.ching367436.me/?data%5Bname%5D=Ching367436&data%5Bcountry%5D=Taiwan
+    url: https://hello-world-gcc.ctftime.uk/?data%5Bname%5D=Ching367436&data%5Bcountry%5D=Taiwan
   - name: 'CTF: Hello World 2'
-    url: https://hello-world-ais3.ching367436.me/?name=Ching367436&country=Taiwan
+    url: https://hello-world-ais3.ctftime.uk/?name=Ching367436&country=Taiwan
   - name: 'CTF: Hello World 3'
-    url: https://hello-world-3-ais3.ching367436.me/?name=Ching367436&country=Taiwan
+    url: https://hello-world-3-ais3.ctftime.uk/?name=Ching367436&country=Taiwan
     
 status-website:
   cname: upptime.ching367436.me
