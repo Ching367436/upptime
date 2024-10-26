@@ -25,17 +25,17 @@ sites:
   - name: 'CTF: Login Panel 2'
     url: https://login-panel-2.ching367436.me
   - name: 'CTF: Curl Online'
-    url: https://curl-online.ching367436.me/?url=example.com%2F
+    url: https://curl-online.ctftime.uk/?url=example.com%2F
   - name: 'CTF: Curl Online Pro'
-    url: https://curl-online-pro.ching367436.me/?url=example.com%2F
+    url: https://curl-online-pro.ctftime.uk/?url=example.com%2F
   - name: 'CTF: E-Portfolio Baby'
-    url: https://e-portfolio-baby.ching367436.me
+    url: https://e-portfolio-baby.ctftime.uk
   - name: 'CTF: E-Portfolio'
-    url: https://e-portfolio.ching367436.me
+    url: https://e-portfolio.ctftime.uk
   - name: 'CTF: Flag Checker｜Anti-debugging'
     url: https://flag-checker-anti-debugging.ching367436.me/
   - name: 'CTF: Simple Site'
-    url: https://simple-site.ching367436.me
+    url: https://simple-site.ctftime.uk
   - name: 'CTF: Hello World'
     url: https://hello-world-gcc.ching367436.me/?data%5Bname%5D=Ching367436&data%5Bcountry%5D=Taiwan
   - name: 'CTF: Hello World 2'
