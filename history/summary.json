@@ -26,12 +26,12 @@
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.57%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.73%",
     "time": 1734,
     "timeDay": 1272,
     "timeWeek": 1129,
-    "timeMonth": 1310,
+    "timeMonth": 1311,
     "timeYear": 1734,
     "dailyMinutesDown": {
       "2024-11-02": 86,
@@ -272,18 +272,20 @@
     "url": "https://hello-world-gcc.ctftime.uk/?data%5Bname%5D=Ching367436&data%5Bcountry%5D=Taiwan",
     "icon": "https://icons.duckduckgo.com/ip3/hello-world-gcc.ctftime.uk.ico",
     "slug": "ctf-hello-world",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 540,
-    "timeDay": 579,
-    "timeWeek": 511,
-    "timeMonth": 530,
-    "timeYear": 540,
-    "dailyMinutesDown": {}
+    "time": 539,
+    "timeDay": 442,
+    "timeWeek": 485,
+    "timeMonth": 524,
+    "timeYear": 539,
+    "dailyMinutesDown": {
+      "2024-11-19": 0
+    }
   },
   {
     "name": "CTF: Hello World 2",
