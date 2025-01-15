@@ -1,7 +1,7 @@
 url: https://curl-online.ctftime.uk/?url=example.com%2F
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-15T04:17:49.050Z
+status: up
+code: 200
+responseTime: 420
+lastUpdated: 2025-01-15T04:50:15.817Z
 startTime: 2024-07-16T01:46:43.956Z
 generator: Upptime <https://github.com/upptime/upptime>
