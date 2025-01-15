@@ -164,19 +164,19 @@
     "url": "https://curl-online.ctftime.uk/?url=example.com%2F",
     "icon": "https://icons.duckduckgo.com/ip3/curl-online.ctftime.uk.ico",
     "slug": "ctf-curl-online",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 868,
-    "timeWeek": 848,
-    "timeMonth": 888,
-    "timeYear": 837,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 835,
+    "timeDay": 644,
+    "timeWeek": 794,
+    "timeMonth": 873,
+    "timeYear": 835,
     "dailyMinutesDown": {
-      "2025-01-15": 0
+      "2025-01-15": 32
     }
   },
   {
