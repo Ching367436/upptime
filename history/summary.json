@@ -164,9 +164,9 @@
     "url": "https://curl-online.ctftime.uk/?url=example.com%2F",
     "icon": "https://icons.duckduckgo.com/ip3/curl-online.ctftime.uk.ico",
     "slug": "ctf-curl-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
@@ -176,6 +176,7 @@
     "timeMonth": 871,
     "timeYear": 842,
     "dailyMinutesDown": {
+      "2025-02-05": 0,
       "2025-01-21": 37,
       "2025-01-15": 32
     }
