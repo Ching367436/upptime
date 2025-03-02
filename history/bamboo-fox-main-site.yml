@@ -1,7 +1,7 @@
 url: https://bamboofox.cs.nycu.edu.tw
-status: up
-code: 200
-responseTime: 1490
-lastUpdated: 2025-03-01T23:12:44.286Z
+status: down
+code: 500
+responseTime: 3820
+lastUpdated: 2025-03-02T03:15:29.978Z
 startTime: 2024-07-16T01:46:36.939Z
 generator: Upptime <https://github.com/upptime/upptime>
