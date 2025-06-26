@@ -14,34 +14,34 @@ sites:
   - name: 'CTF: Frontend Unraveling Web Application: Master Obfuscated Code Odyssey'
     url: https://fuwamoco-flag-checker.ching367436.me
   - name: 'CTF: Starburst Cat Shop'
-    url: https://starburst-cat-shop.ching367436.me/login
+    url: https://starburst-cat-shop.ctftime.uk/login
     # Cannot test login since it would first POST to `/login`, which is correct, but then POST `/`, which returns 404.
     # method: POST
     # body: "username=ChingBot"
     # expectedStatusCodes:
     #   - 302
   - name: 'CTF: Login Panel'
-    url: https://login-panel.ching367436.me
+    url: https://login-panel.ctftime.uk
   - name: 'CTF: Login Panel 2'
-    url: https://login-panel-2.ching367436.me
+    url: https://login-panel-2.ctftime.uk
   - name: 'CTF: Curl Online'
-    url: https://curl-online.ctftime.uk/?url=example.com%2F
+    url: https://curl-online.ctftime.uk/
   - name: 'CTF: Curl Online Pro'
-    url: https://curl-online-pro.ctftime.uk/?url=example.com%2F
+    url: https://curl-online-pro.ctftime.uk/
   - name: 'CTF: E-Portfolio Baby'
     url: https://e-portfolio-baby.ctftime.uk
   - name: 'CTF: E-Portfolio'
     url: https://e-portfolio.ctftime.uk
   - name: 'CTF: Flag Checker｜Anti-debugging'
-    url: https://flag-checker-anti-debugging.ching367436.me/
+    url: https://anti-debugger.ctftime.uk/
   - name: 'CTF: Simple Site'
     url: https://simple-site.ctftime.uk
   - name: 'CTF: Hello World'
-    url: https://hello-world-gcc.ctftime.uk/?data%5Bname%5D=Ching367436&data%5Bcountry%5D=Taiwan
+    url: https://hello-world-1.ctftime.uk/?data%5Bname%5D=Ching367436&data%5Bcountry%5D=Taiwan
   - name: 'CTF: Hello World 2'
-    url: https://hello-world-ais3.ctftime.uk/?name=Ching367436&country=Taiwan
+    url: https://hello-world-2.ctftime.uk/?name=Ching367436&country=Taiwan
   - name: 'CTF: Hello World 3'
-    url: https://hello-world-3-ais3.ctftime.uk/?name=Ching367436&country=Taiwan
+    url: https://hello-world-3.ctftime.uk/?name=Ching367436&country=Taiwan
     
 status-website:
   cname: upptime.ching367436.me
